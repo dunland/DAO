@@ -1,0 +1,700 @@
+16:08 10.08.2017
+
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 0
+198 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 1602.58
+checkingIncomingData.. incomingData = 1602
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 1
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 21504 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 80.80
+checkingIncomingData.. incomingData = 80
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 2
+198 | 1602 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 198.26
+checkingIncomingData.. incomingData = 198
+incomingData !=0. Checking entry existence in db...
+...198 exists at slot 0
+198 | 1602 | 80 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 3
+198 | 1602 | 80 | 1131 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23808 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7424 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 4
+198 | 1602 | 80 | 1131 | 228 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 1039.51
+checkingIncomingData.. incomingData = 1039
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 5
+198 | 1602 | 80 | 1131 | 228 | 1039 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 1012.16
+checkingIncomingData.. incomingData = 1012
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 7
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 60.38
+checkingIncomingData.. incomingData = 60
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 8
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 60.38
+checkingIncomingData.. incomingData = 60
+incomingData !=0. Checking entry existence in db...
+...60 exists at slot 8
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 12.54
+checkingIncomingData.. incomingData = 12
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 9
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 60.38
+checkingIncomingData.. incomingData = 60
+incomingData !=0. Checking entry existence in db...
+...60 exists at slot 8
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 60.38
+checkingIncomingData.. incomingData = 60
+incomingData !=0. Checking entry existence in db...
+...60 exists at slot 8
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11776 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24320 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24320 | 
+
+new median: 228.94
+checkingIncomingData.. incomingData = 228
+incomingData !=0. Checking entry existence in db...
+...228 exists at slot 4
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24320 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24320 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47104 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35584 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16128 | 
+
+new median: 373.42
+checkingIncomingData.. incomingData = 373
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 11
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16128 | 
+
+new median: 373.42
+checkingIncomingData.. incomingData = 373
+incomingData !=0. Checking entry existence in db...
+...373 exists at slot 11
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3584 | 
+
+new median: 373.42
+checkingIncomingData.. incomingData = 373
+incomingData !=0. Checking entry existence in db...
+...373 exists at slot 11
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3584 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3584 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...1282 exists at slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3584 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 16128 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 16128 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 16128 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 0 | 0 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 1326.28
+checkingIncomingData.. incomingData = 1326
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 14
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 0 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 0 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...58 exists at slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...58 exists at slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...58 exists at slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...58 exists at slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 58.28
+checkingIncomingData.. incomingData = 58
+incomingData !=0. Checking entry existence in db...
+...58 exists at slot 15
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 0 | 0 | 0 | 0 | 17920 | 
+
+new median: 267.10
+checkingIncomingData.. incomingData = 267
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 16
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 0 | 0 | 0 | 17920 | 
+
+new median: 343.41
+checkingIncomingData.. incomingData = 343
+incomingData !=0. Checking entry existence in db...
+...343 exists at slot 10
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 0 | 0 | 0 | 17920 | 
+
+new median: 1479.31
+checkingIncomingData.. incomingData = 1479
+incomingData !=0. Checking entry existence in db...
+...1479 exists at slot 13
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 0 | 0 | 0 | 17920 | 
+
+new median: 1240.71
+checkingIncomingData.. incomingData = 1240
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 17
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 17920 | 
+
+new median: 1240.71
+checkingIncomingData.. incomingData = 1240
+incomingData !=0. Checking entry existence in db...
+...1240 exists at slot 17
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 17920 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...1282 exists at slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 64512 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...1282 exists at slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 24576 | 
+
+new median: 1240.71
+checkingIncomingData.. incomingData = 1240
+incomingData !=0. Checking entry existence in db...
+...1240 exists at slot 17
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 24576 | 
+
+new median: 1240.71
+checkingIncomingData.. incomingData = 1240
+incomingData !=0. Checking entry existence in db...
+...1240 exists at slot 17
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 37376 | 
+
+new median: 1240.71
+checkingIncomingData.. incomingData = 1240
+incomingData !=0. Checking entry existence in db...
+...1240 exists at slot 17
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 12800 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...1282 exists at slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 12800 | 
+
+new median: 1282.07
+checkingIncomingData.. incomingData = 1282
+incomingData !=0. Checking entry existence in db...
+...1282 exists at slot 12
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 0 | 0 | 12800 | 
+
+new median: 1201.94
+checkingIncomingData.. incomingData = 1201
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 18
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 12800 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...1098 exists at slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 12800 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...1098 exists at slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 19200 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...1098 exists at slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 19200 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...1098 exists at slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 4864 | 
+
+new median: 1012.16
+checkingIncomingData.. incomingData = 1012
+incomingData !=0. Checking entry existence in db...
+...1012 exists at slot 7
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 4864 | 
+
+new median: 1012.16
+checkingIncomingData.. incomingData = 1012
+incomingData !=0. Checking entry existence in db...
+...1012 exists at slot 7
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 4864 | 
+
+new median: 1012.16
+checkingIncomingData.. incomingData = 1012
+incomingData !=0. Checking entry existence in db...
+...1012 exists at slot 7
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 0 | 4864 | 
+
+new median: 1068.39
+checkingIncomingData.. incomingData = 1068
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 19
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 19200 | 
+
+new median: 1068.39
+checkingIncomingData.. incomingData = 1068
+incomingData !=0. Checking entry existence in db...
+...1068 exists at slot 19
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 37376 | 
+
+new median: 1098.91
+checkingIncomingData.. incomingData = 1098
+incomingData !=0. Checking entry existence in db...
+...1098 exists at slot 6
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 37376 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 37376 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 6912 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 60672 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 60672 | 
+
+new median: 1131.24
+checkingIncomingData.. incomingData = 1131
+incomingData !=0. Checking entry existence in db...
+...1131 exists at slot 3
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 60672 | 
+
+new median: 1012.16
+checkingIncomingData.. incomingData = 1012
+incomingData !=0. Checking entry existence in db...
+...1012 exists at slot 7
+198 | 1602 | 80 | 1131 | 228 | 1039 | 1098 | 1012 | 60 | 12 | 343 | 373 | 1282 | 1479 | 1326 | 58 | 267 | 1240 | 1201 | 1068 | 60672 | 
+
+new median: 44.36
+checkingIncomingData.. incomingData = 44
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+end of database reached - db full?
+new median: 44.36
+checkingIncomingData.. incomingData = 44
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+end of database reached - db full?
+new median: 44.36
+checkingIncomingData.. incomingData = 44
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+end of database reached - db full?
+new median: 44.36
+checkingIncomingData.. incomingData = 44
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+end of database reached - db full?
+new median: 109.89
+checkingIncomingData.. incomingData = 109
+incomingData !=0. Checking entry existence in db...
+...incomingData not found in db[]
+
+end of database reached - db full?

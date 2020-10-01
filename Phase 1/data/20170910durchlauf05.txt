@@ -1,0 +1,47 @@
+filling database... 
+220 | 400 | 80 | 360 | 180 | 
+new median = 113.79
+######### db fillup ########
+incoming data added to database.
+220 | 400 | 80 | 360 | 180 | 113 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 
+
+new median = 325.95
+######### db fillup ########
+incoming data added to database.
+220 | 400 | 80 | 360 | 180 | 113 | 325 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 
+
+new median = 1831.52
+######### db fillup ########
+incoming data added to database.
+220 | 400 | 80 | 360 | 180 | 113 | 325 | 1831 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 | 
+
+new median = 1923.10
+######### db fillup ########
+incoming data added to database.
+220 | 400 | 80 | 360 | 180 | 113 | 325 | 1831 | 1923 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 0 | 
+
+new median = 10.15
+######## data existent ########
+220 | 400 | 80 | 360 | 180 | 113 | 325 | 1831 | 1923 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 
+
+new median = 769.24
+######### db fillup ########
+incoming data added to database.
+220 | 400 | 80 | 360 | 180 | 113 | 325 | 1831 | 1923 | 769 | 
+2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 2 | 
+
+new median = 506.08
+######### db fillup ########
+end of database reached.
+########## dbFull ##########
+113 dropped, 506 added
+sorting database...
+80 | 180 | 220 | 325 | 360 | 400 | 506 | 769 | 1831 | 1923 | 
+2 | 2 | 2 | 1 | 2 | 2 | 1 | 2 | 1 | 1 | 
+db[index]-db[index-1] < db[index+1] - db[index], wait = 21200.00
+########## negative reaction ######

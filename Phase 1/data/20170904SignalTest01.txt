@@ -1,0 +1,430 @@
+16:43 04.09.2017
+
+
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+react = false, millis() = 3000
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 986.21
+checkingIncomingData.. incomingData = 986
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 0
+986 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 1
+986 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 13142
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 19450
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 25758
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1326.28
+checkingIncomingData.. incomingData = 1326
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 3
+986 | 961 | 938 | 1326 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1326.28
+checkingIncomingData.. incomingData = 1326
+data incoming - checking entry existence in db...
+...1326 exists at slot 3
+986 | 961 | 938 | 1326 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1326.28
+checkingIncomingData.. incomingData = 1326
+data incoming - checking entry existence in db...
+...1326 exists at slot 3
+986 | 961 | 938 | 1326 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 938.10
+checkingIncomingData.. incomingData = 938
+data incoming - checking entry existence in db...
+...938 exists at slot 2
+986 | 961 | 938 | 1326 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 192.31
+checkingIncomingData.. incomingData = 192
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 4
+986 | 961 | 938 | 1326 | 192 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 192.31
+checkingIncomingData.. incomingData = 192
+data incoming - checking entry existence in db...
+...192 exists at slot 4
+986 | 961 | 938 | 1326 | 192 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 192.31
+checkingIncomingData.. incomingData = 192
+data incoming - checking entry existence in db...
+...192 exists at slot 4
+986 | 961 | 938 | 1326 | 192 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 192.31
+checkingIncomingData.. incomingData = 192
+data incoming - checking entry existence in db...
+...192 exists at slot 4
+986 | 961 | 938 | 1326 | 192 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 32178

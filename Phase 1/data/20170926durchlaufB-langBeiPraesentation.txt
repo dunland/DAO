@@ -1,0 +1,1074 @@
+waiting factor = 100
+filling database...
+1380 | 2400 | 480 | 1300 | 1680 |
+new frequency = inf
+incomingData out of range
+
+new frequency = inf
+incomingData out of range
+
+new frequency = inf
+incomingData out of range
+
+new frequency = inf
+incomingData out of range
+
+new frequency = 83.43
+incomingData out of range
+
+new frequency = 83.43
+incomingData out of range
+
+new frequency = 83.43
+incomingData out of range
+
+new frequency = 85.47
+incomingData out of range
+
+new frequency = 68.93
+incomingData out of range
+
+new frequency = 68.93
+incomingData out of range
+
+new frequency = 68.93
+incomingData out of range
+
+new frequency = 138.85
+incomingData out of range
+
+new frequency = 90.07
+incomingData out of range
+
+new frequency = 2136.78
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 1380 | 2400 | 480 | 1300 | 1680 | 2136 | 0 | 0 | 0 | 0 |
+2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |
+
+new frequency = 2136.78
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 0 | 0 | 0 | 0 |
+2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+
+new frequency = 5494.57
+incomingData out of range
+
+new frequency = 99.64
+incomingData out of range
+
+new frequency = 99.64
+incomingData out of range
+
+new frequency = 99.64
+incomingData out of range
+
+new frequency = 198.26
+incomingData out of range
+
+new frequency = 43.51
+incomingData out of range
+
+new frequency = 49.31
+incomingData out of range
+
+new frequency = 49.31
+incomingData out of range
+
+new frequency = 51.56
+incomingData out of range
+
+new frequency = 155.09
+incomingData out of range
+
+new frequency = 152.02
+incomingData out of range
+
+new frequency = 31.27
+incomingData out of range
+
+new frequency = 42.93
+incomingData out of range
+
+new frequency = 25.12
+incomingData out of range
+
+new frequency = 362.85
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 0 | 0 | 0 |
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 |
+
+new frequency = 51.77
+incomingData out of range
+
+new frequency = 140.37
+incomingData out of range
+
+new frequency = 237.42
+incomingData out of range
+
+new frequency = 190.41
+incomingData out of range
+
+new frequency = 165.07
+incomingData out of range
+
+new frequency = 69.80
+incomingData out of range
+
+new frequency = 76.01
+incomingData out of range
+
+new frequency = 68.20
+incomingData out of range
+
+new frequency = 600.97
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 0 | 0 |
+
+new frequency = 160.93
+incomingData out of range
+
+new frequency = 84.35
+incomingData out of range
+
+new frequency = 170.94
+incomingData out of range
+
+new frequency = 155.72
+incomingData out of range
+
+new frequency = 155.72
+incomingData out of range
+
+new frequency = 469.05
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 3 | 2 | 2 | 2 | 1 | 1 | 0 | 0 |
+
+new frequency = 469.05
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 4 | 2 | 2 | 2 | 1 | 1 | 0 | 0 |
+
+new frequency = 469.05
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 5 | 2 | 2 | 2 | 1 | 1 | 0 | 0 |
+
+new frequency = 192.31
+incomingData out of range
+
+new frequency = 41.76
+incomingData out of range
+
+new frequency = 109.58
+incomingData out of range
+
+new frequency = 362.85
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 5 | 2 | 2 | 2 | 2 | 1 | 0 | 0 |
+
+new frequency = 362.85
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 5 | 2 | 2 | 2 | 3 | 1 | 0 | 0 |
+
+new frequency = 362.85
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 5 | 2 | 2 | 2 | 4 | 1 | 0 | 0 |
+
+new frequency = 2136.78
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 0 | 0 |
+2 | 2 | 5 | 2 | 2 | 3 | 4 | 1 | 0 | 0 |
+
+new frequency = 305.25
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 305 | 0 |
+2 | 2 | 5 | 2 | 2 | 3 | 4 | 1 | 1 | 0 |
+
+new frequency = 699.31
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 305 | 699 |
+2 | 2 | 5 | 2 | 2 | 3 | 4 | 1 | 1 | 1 |
+
+new frequency = 699.31
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+1380 | 2400 | 480 | 1300 | 1680 | 2136 | 362 | 600 | 305 | 699 |
+2 | 2 | 5 | 2 | 2 | 3 | 4 | 1 | 1 | 2 |
+
+new frequency = 68.32
+incomingData out of range
+
+new frequency = 1748.27
+######### db fillup ########
+----------------end of database reached.----------------
+600 dropped, 1748 added
+sorting database...
+305 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 2 | 2 | 2 | 2 | 1 | 3 | 2 |
+1748 - 1680 < 2136 - 1748, difference/wait = 6800
+closest sound = 1680
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 6325, waiting another 6325, waiting another 6324, waiting another 5325, waiting another 5325, waiting another 5324, waiting another 4325, waiting another 4325, waiting another 4324, waiting another 3325, waiting another 3325, waiting another 3324, waiting another 2325, waiting another 2325, waiting another 2324, waiting another 1325, waiting another 1325, waiting another 1324, waiting another 325, waiting another 325, waiting another 325
+producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+305 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 2 | 2 | 2 | 2 | 1 | 3 | 2 |
+
+new frequency = 201.37
+incomingData out of range
+
+new frequency = 201.37
+incomingData out of range
+
+new frequency = 74.25
+incomingData out of range
+
+new frequency = 1068.39
+305 dropped, 1068 added
+sorting database...
+362 | 480 | 699 | 1068 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 5 | 2 | 1 | 2 | 2 | 2 | 1 | 3 | 2 |
+entry at 0, wait = 11800
+closest sound = 480
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 11452, waiting another 11452, waiting another 11451, waiting another 10452, waiting another 10452, waiting another 10451, waiting another 9452, waiting another 9452, waiting another 9451, waiting another 8452, waiting another 8452, waiting another 8451, waiting another 7452, waiting another 7452, waiting another 7451, waiting another 6452, waiting another 6452, waiting another 6451, waiting another 5452, waiting another 5452, waiting another 5451, waiting another 4452, waiting another 4452, waiting another 4451, waiting another 3452, waiting another 3452, waiting another 3451, waiting another 2452, waiting another 2452, waiting another 2451, waiting another 1452, waiting another 1452, waiting another 1451, waiting another 452, waiting another 452, waiting another 452
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 699 | 1068 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 5 | 2 | 1 | 2 | 2 | 2 | 1 | 3 | 2 |
+
+new frequency = 76.92
+incomingData out of range
+
+new frequency = 89.66
+incomingData out of range
+
+new frequency = 46.06
+incomingData out of range
+
+new frequency = 739.65
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 699 | 1068 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 5 | 3 | 1 | 2 | 2 | 2 | 1 | 3 | 2 |
+
+new frequency = 235.96
+incomingData out of range
+
+new frequency = 235.96
+incomingData out of range
+
+new frequency = 49.82
+incomingData out of range
+
+new frequency = 68.81
+incomingData out of range
+
+new frequency = 74.83
+incomingData out of range
+
+new frequency = 74.83
+incomingData out of range
+
+new frequency = 74.83
+incomingData out of range
+
+new frequency = 74.83
+incomingData out of range
+
+new frequency = 307.70
+1068 dropped, 307 added
+sorting database...
+307 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 3 | 2 | 2 | 2 | 1 | 3 | 2 |
+699 - 480 < 1300 - 699, difference/wait = 21900
+closest sound = 480
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 21003, waiting another 21003, waiting another 21002, waiting another 20003, waiting another 20003, waiting another 20002, waiting another 19003, waiting another 19003, waiting another 19002, waiting another 18003, waiting another 18003, waiting another 18002, waiting another 17003, waiting another 17003, waiting another 17002, waiting another 16003, waiting another 16003, waiting another 16002, waiting another 15003, waiting another 15003, waiting another 15002, waiting another 14003, waiting another 14003, waiting another 13003, waiting another 13003, waiting another 13002, waiting another 12003, waiting another 12003, waiting another 12002, waiting another 11003, waiting another 11003, waiting another 11002, waiting another 10003, waiting another 10003, waiting another 10002, waiting another 9003, waiting another 9003, waiting another 9002, waiting another 8003, waiting another 8003, waiting another 8002, waiting another 7003, waiting another 7003, waiting another 7002, waiting another 6003, waiting another 6003, waiting another 6002, waiting another 5003, waiting another 5003, waiting another 5002, waiting another 4003, waiting another 4003, waiting another 4002, waiting another 3003, waiting another 3003, waiting another 3002, waiting another 2003, waiting another 2003, waiting another 2002, waiting another 1003, waiting another 1003, waiting another 1002, waiting another 3, waiting another 3, waiting another 3, waiting another 4294967289
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+307 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 3 | 2 | 2 | 2 | 1 | 3 | 2 |
+
+new frequency = 57.75
+incomingData out of range
+
+new frequency = 54.25
+incomingData out of range
+
+new frequency = 54.25
+incomingData out of range
+
+new frequency = 138.35
+incomingData out of range
+
+new frequency = 143.51
+incomingData out of range
+
+new frequency = 143.51
+incomingData out of range
+
+new frequency = 1672.26
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+307 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 3 | 2 | 2 | 3 | 1 | 3 | 2 |
+
+new frequency = 1672.26
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+307 | 362 | 480 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+1 | 4 | 5 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 1240.71
+307 dropped, 1240 added
+sorting database...
+362 | 480 | 699 | 1240 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 5 | 3 | 1 | 2 | 2 | 4 | 1 | 3 | 2 |
+entry at 0, wait = 11800
+closest sound = 480
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 11583, waiting another 11583, waiting another 11582, waiting another 10583, waiting another 10583, waiting another 10582, waiting another 9583, waiting another 9583, waiting another 9582, waiting another 8583, waiting another 8583, waiting another 8582, waiting another 7583, waiting another 7583, waiting another 7582, waiting another 6583, waiting another 6583, waiting another 6582, waiting another 5583, waiting another 5583, waiting another 5582, waiting another 4583, waiting another 4583, waiting another 4582, waiting another 3583, waiting another 3583, waiting another 3582, waiting another 2583, waiting another 2583, waiting another 2582, waiting another 1583, waiting another 1583, waiting another 1582, waiting another 583, waiting another 583, waiting another 583
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 699 | 1240 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 5 | 3 | 1 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 32.82
+incomingData out of range
+
+new frequency = 32.82
+incomingData out of range
+
+new frequency = 32.82
+incomingData out of range
+
+new frequency = 32.82
+incomingData out of range
+
+new frequency = 432.16
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 699 | 1240 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 6 | 3 | 1 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 60.29
+incomingData out of range
+
+new frequency = 60.29
+incomingData out of range
+
+new frequency = 60.29
+incomingData out of range
+
+new frequency = 34.53
+incomingData out of range
+
+new frequency = 34.53
+incomingData out of range
+
+new frequency = 34.53
+incomingData out of range
+
+new frequency = 34.53
+incomingData out of range
+
+new frequency = 163.67
+incomingData out of range
+
+new frequency = 565.62
+1240 dropped, 565 added
+sorting database...
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 6 | 1 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+699 - 565 < 1300 - 699, difference/wait = 13400
+closest sound = 565
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 12510, waiting another 12510, waiting another 12509, waiting another 11510, waiting another 11510, waiting another 10510, waiting another 10510, waiting another 10509, waiting another 9510, waiting another 9510, waiting another 9509, waiting another 8510, waiting another 8510, waiting another 8509, waiting another 7510, waiting another 7510, waiting another 7509, waiting another 6510, waiting another 6510, waiting another 6509, waiting another 5510, waiting another 5510, waiting another 5509, waiting another 4510, waiting another 4510, waiting another 4509, waiting another 3510, waiting another 3510, waiting another 3509, waiting another 2510, waiting another 2510, waiting another 2509, waiting another 1510, waiting another 1510, waiting another 1509, waiting another 510, waiting another 510, waiting another 510
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 6 | 1 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 565.62
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 6 | 2 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 99.90
+incomingData out of range
+
+new frequency = 65.41
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 253.04
+incomingData out of range
+
+new frequency = 31.84
+incomingData out of range
+
+new frequency = 31.84
+incomingData out of range
+
+new frequency = 58.63
+incomingData out of range
+
+new frequency = 58.63
+incomingData out of range
+
+new frequency = 58.63
+incomingData out of range
+
+new frequency = 77.08
+incomingData out of range
+
+new frequency = 93.58
+incomingData out of range
+
+new frequency = 582.76
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 6 | 3 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 6.32
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 149.08
+incomingData out of range
+
+new frequency = 46.34
+incomingData out of range
+
+new frequency = 62.74
+incomingData out of range
+
+new frequency = 62.74
+incomingData out of range
+
+new frequency = 256.41
+incomingData out of range
+
+new frequency = 140.37
+incomingData out of range
+
+new frequency = 140.37
+incomingData out of range
+
+new frequency = 493.10
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 7 | 3 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 493.10
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 8 | 3 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 493.10
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 1748 | 2136 | 2400 |
+4 | 9 | 3 | 3 | 2 | 2 | 4 | 1 | 3 | 2 |
+
+new frequency = 2262.47
+1748 dropped, 2262 added
+sorting database...
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 9 | 3 | 3 | 2 | 2 | 4 | 3 | 1 | 2 |
+2136 - 1680 > 2262 - 2136, difference/wait = 12600
+closest sound = 2262
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 11900, waiting another 11900, waiting another 11899, waiting another 10900, waiting another 10900, waiting another 10899, waiting another 9900, waiting another 9900, waiting another 9899, waiting another 8900, waiting another 8900, waiting another 8899, waiting another 7900, waiting another 7900, waiting another 7899, waiting another 6900, waiting another 6900, waiting another 6899, waiting another 5900, waiting another 5900, waiting another 5899, waiting another 4900, waiting another 4900, waiting another 4899, waiting another 3900, waiting another 3900, waiting another 3899, waiting another 2900, waiting another 2900, waiting another 2899, waiting another 1900, waiting another 1900, waiting another 1899, waiting another 900, waiting another 900, waiting another 900
+producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 9 | 3 | 3 | 2 | 2 | 4 | 3 | 1 | 2 |
+
+new frequency = 243.43
+incomingData out of range
+
+new frequency = 251.39
+incomingData out of range
+
+new frequency = 251.39
+incomingData out of range
+
+new frequency = 191.35
+incomingData out of range
+
+new frequency = 191.35
+incomingData out of range
+
+new frequency = 191.35
+incomingData out of range
+
+new frequency = 18.55
+incomingData out of range
+
+new frequency = 45.14
+incomingData out of range
+
+new frequency = 45.14
+incomingData out of range
+
+new frequency = 45.14
+incomingData out of range
+
+new frequency = 52.19
+incomingData out of range
+
+new frequency = 52.19
+incomingData out of range
+
+new frequency = 1373.64
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 9 | 3 | 3 | 2 | 3 | 4 | 3 | 1 | 2 |
+
+new frequency = 57.66
+incomingData out of range
+
+new frequency = 57.66
+incomingData out of range
+
+new frequency = 512.83
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 10 | 3 | 3 | 2 | 3 | 4 | 3 | 1 | 2 |
+
+new frequency = 512.83
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 11 | 3 | 3 | 2 | 3 | 4 | 3 | 1 | 2 |
+
+new frequency = 512.83
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 1300 | 1380 | 1680 | 2136 | 2262 | 2400 |
+4 | 12 | 3 | 3 | 2 | 3 | 4 | 3 | 1 | 2 |
+
+new frequency = 164.37
+incomingData out of range
+
+new frequency = 164.37
+incomingData out of range
+
+new frequency = 32.21
+incomingData out of range
+
+new frequency = 32.21
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 60.67
+incomingData out of range
+
+new frequency = 83.80
+incomingData out of range
+
+new frequency = 83.80
+incomingData out of range
+
+new frequency = 65.86
+incomingData out of range
+
+new frequency = 152.02
+incomingData out of range
+
+new frequency = 152.02
+incomingData out of range
+
+new frequency = 152.02
+incomingData out of range
+
+new frequency = 152.02
+incomingData out of range
+
+new frequency = 620.35
+2262 dropped, 620 added
+sorting database...
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+4 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+2136 - 1680 > 2400 - 2136, difference/wait = 26400
+closest sound = 2400
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 26111, waiting another 26111, waiting another 25111, waiting another 25111, waiting another 25110, waiting another 24111, waiting another 24111, waiting another 24110, waiting another 23111, waiting another 23111, waiting another 23110, waiting another 22111, waiting another 22111, waiting another 22110, waiting another 21111, waiting another 21111, waiting another 21110, waiting another 20111, waiting another 20111, waiting another 20110, waiting another 19111, waiting another 19111, waiting another 19110, waiting another 18111, waiting another 18111, waiting another 18110, waiting another 17111, waiting another 17111, waiting another 17110, waiting another 16111, waiting another 16111, waiting another 16110, waiting another 15111, waiting another 15111, waiting another 15110, waiting another 14111, waiting another 14111, waiting another 14110, waiting another 13111, waiting another 13111, waiting another 13110, waiting another 12111, waiting another 12111, waiting another 12110, waiting another 11111, waiting another 11111, waiting another 11110, waiting another 10111, waiting another 10111, waiting another 10110, waiting another 9111, waiting another 9111, waiting another 9110, waiting another 8111, waiting another 8111, waiting another 8110, waiting another 7111, waiting another 7111, waiting another 7110, waiting another 6111, waiting another 6111, waiting another 6110, waiting another 5111, waiting another 5111, waiting another 5110, waiting another 4111, waiting another 4111, waiting another 4110, waiting another 3111, waiting another 3111, waiting another 3110, waiting another 2111, waiting another 2111, waiting another 2110, waiting another 1111, waiting another 1111, waiting another 1110, waiting another 111, waiting another 111, waiting another 111
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+4 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 57.41
+incomingData out of range
+
+new frequency = 325.95
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+5 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 47.19
+incomingData out of range
+
+new frequency = 120.57
+incomingData out of range
+
+new frequency = 120.57
+incomingData out of range
+
+new frequency = 120.57
+incomingData out of range
+
+new frequency = 50.94
+incomingData out of range
+
+new frequency = 67.24
+incomingData out of range
+
+new frequency = 67.24
+incomingData out of range
+
+new frequency = 67.24
+incomingData out of range
+
+new frequency = 60.76
+incomingData out of range
+
+new frequency = 30.21
+incomingData out of range
+
+new frequency = 30.21
+incomingData out of range
+
+new frequency = 30.21
+incomingData out of range
+
+new frequency = 78.82
+incomingData out of range
+
+new frequency = 320.52
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+6 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 32.57
+incomingData out of range
+
+new frequency = 32.57
+incomingData out of range
+
+new frequency = 70.31
+incomingData out of range
+
+new frequency = 110.52
+incomingData out of range
+
+new frequency = 80.30
+incomingData out of range
+
+new frequency = 80.30
+incomingData out of range
+
+new frequency = 153.85
+incomingData out of range
+
+new frequency = 153.85
+incomingData out of range
+
+new frequency = 282.81
+incomingData out of range
+
+new frequency = 132.17
+incomingData out of range
+
+new frequency = 65.19
+incomingData out of range
+
+new frequency = 47.96
+incomingData out of range
+
+new frequency = 142.98
+incomingData out of range
+
+new frequency = 218.53
+incomingData out of range
+
+new frequency = 171.71
+incomingData out of range
+
+new frequency = 160.26
+incomingData out of range
+
+new frequency = 48.38
+incomingData out of range
+
+new frequency = 48.38
+incomingData out of range
+
+new frequency = 161.61
+incomingData out of range
+
+new frequency = 147.36
+incomingData out of range
+
+new frequency = 147.36
+incomingData out of range
+
+new frequency = 37.38
+incomingData out of range
+
+new frequency = 71.09
+incomingData out of range
+
+new frequency = 45.84
+incomingData out of range
+
+new frequency = 24.78
+incomingData out of range
+
+new frequency = 6410.33
+incomingData out of range
+
+new frequency = 27.05
+incomingData out of range
+
+new frequency = 27.05
+incomingData out of range
+
+new frequency = 27.05
+incomingData out of range
+
+new frequency = 114.81
+incomingData out of range
+
+new frequency = 114.81
+incomingData out of range
+
+new frequency = 114.81
+incomingData out of range
+
+new frequency = 114.81
+incomingData out of range
+
+new frequency = 43.12
+incomingData out of range
+
+new frequency = 43.12
+incomingData out of range
+
+new frequency = 43.12
+incomingData out of range
+
+new frequency = 43.12
+incomingData out of range
+
+new frequency = 126.10
+incomingData out of range
+
+new frequency = 140.89
+incomingData out of range
+
+new frequency = 140.89
+incomingData out of range
+
+new frequency = 140.89
+incomingData out of range
+
+new frequency = 140.89
+incomingData out of range
+
+new frequency = 246.55
+incomingData out of range
+
+new frequency = 246.55
+incomingData out of range
+
+new frequency = 139.86
+incomingData out of range
+
+new frequency = 84.53
+incomingData out of range
+
+new frequency = 280.74
+incomingData out of range
+
+new frequency = 58.99
+incomingData out of range
+
+new frequency = 58.99
+incomingData out of range
+
+new frequency = 47.66
+incomingData out of range
+
+new frequency = 19231.00
+incomingData out of range
+
+new frequency = 30.38
+incomingData out of range
+
+new frequency = 30.38
+incomingData out of range
+
+new frequency = 30.38
+incomingData out of range
+
+new frequency = 30.38
+incomingData out of range
+
+new frequency = 52.40
+incomingData out of range
+
+new frequency = 4273.56
+incomingData out of range
+
+new frequency = 4273.56
+incomingData out of range
+
+new frequency = 263.44
+incomingData out of range
+
+new frequency = 263.44
+incomingData out of range
+
+new frequency = 130.82
+incomingData out of range
+
+new frequency = 130.82
+incomingData out of range
+
+new frequency = 6.98
+incomingData out of range
+
+new frequency = 6.98
+incomingData out of range
+
+new frequency = 6.98
+incomingData out of range
+
+new frequency = 6.98
+incomingData out of range
+
+new frequency = 72.16
+incomingData out of range
+
+new frequency = 44.57
+incomingData out of range
+
+new frequency = 44.57
+incomingData out of range
+
+new frequency = 37.60
+incomingData out of range
+
+new frequency = 37.60
+incomingData out of range
+
+new frequency = 37.60
+incomingData out of range
+
+new frequency = 80.30
+incomingData out of range
+
+new frequency = 170.19
+incomingData out of range
+
+new frequency = 50.88
+incomingData out of range
+
+new frequency = 148.50
+incomingData out of range
+
+new frequency = 119.08
+incomingData out of range
+
+new frequency = 119.08
+incomingData out of range
+
+new frequency = 343.41
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+7 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 343.41
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+8 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 343.41
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 620 | 699 | 1300 | 1380 | 1680 | 2136 | 2400 |
+9 | 12 | 3 | 1 | 3 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 784.94
+620 dropped, 784 added
+sorting database...
+362 | 480 | 565 | 699 | 784 | 1300 | 1380 | 1680 | 2136 | 2400 |
+9 | 12 | 3 | 3 | 1 | 2 | 3 | 4 | 3 | 2 |
+699 - 565 > 784 - 699, difference/wait = 8500
+closest sound = 784
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 7899, waiting another 7899, waiting another 7898, waiting another 6899, waiting another 6899, waiting another 6898, waiting another 5899, waiting another 5899, waiting another 5898, waiting another 4899, waiting another 4899, waiting another 4898, waiting another 3899, waiting another 3899, waiting another 3898, waiting another 2899, waiting another 2899, waiting another 2898, waiting another 1899, waiting another 1899, waiting another 1898, waiting another 899, waiting another 899, waiting another 899
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 784 | 1300 | 1380 | 1680 | 2136 | 2400 |
+9 | 12 | 3 | 3 | 1 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 784.94
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+362 | 480 | 565 | 699 | 784 | 1300 | 1380 | 1680 | 2136 | 2400 |
+9 | 12 | 3 | 3 | 2 | 2 | 3 | 4 | 3 | 2 |
+
+new frequency = 784.94
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again..

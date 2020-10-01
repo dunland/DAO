@@ -1,0 +1,157 @@
+waiting factor = 150
+filling database... 
+720 | 1600 | 2260 | 1040 | 760 | 
+new frequency = 413.57
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..720 | 1600 | 2260 | 1040 | 760 | 413 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 413.57
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1.74
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1373.64
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 7.06
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 48.93
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 9615.50
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 437.07
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 3 | 2 | 3 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 600.97
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 0 | 
+2 | 2 | 2 | 2 | 2 | 3 | 2 | 3 | 1 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1068.39
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 0 | 
+2 | 2 | 2 | 3 | 2 | 3 | 2 | 3 | 1 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1068.39
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 0 | 
+2 | 2 | 2 | 4 | 2 | 3 | 2 | 3 | 1 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1068.39
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 0 | 
+2 | 2 | 2 | 5 | 2 | 3 | 2 | 3 | 1 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1.77
+######## APPROVE #######
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. 
+720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 0 | 
+2 | 2 | 2 | 5 | 2 | 3 | 2 | 3 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1282.07
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..doing nothing for a while..720 | 1600 | 2260 | 1040 | 760 | 413 | 1373 | 9615 | 600 | 1282 | 
+2 | 2 | 2 | 5 | 2 | 3 | 2 | 3 | 1 | 2 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 26.88
+######### db fillup ########
+----------------end of database reached.----------------
+600 dropped, 26 added
+sorting database...
+26 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+2260 - 1600 < 9615 - 2260, difference/wait = 4294935224
+closest sound = 1600
+######## REJECT ########
+producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. 
+26 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 200.32
+26 dropped, 200 added
+sorting database...
+200 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+entry at 0, wait = 31950
+closest sound = 413
+######## REJECT ########
+waiting another 31301waiting another 31301waiting another 30301waiting another 30301waiting another 29301waiting another 29301waiting another 28301waiting another 28301waiting another 27301waiting another 27301waiting another 26301waiting another 26301waiting another 25301waiting another 25301waiting another 24301waiting another 24301waiting another 23301waiting another 23301waiting another 22301waiting another 22301waiting another 21301waiting another 21301waiting another 20301waiting another 20301waiting another 19301waiting another 19301waiting another 18301waiting another 18301waiting another 17301waiting another 17301waiting another 16301waiting another 16301waiting another 15301waiting another 15301waiting another 14301waiting another 14301waiting another 13301waiting another 13301waiting another 12301waiting another 12301waiting another 11301waiting another 11301waiting another 10301waiting another 10301waiting another 9301waiting another 9301waiting another 8301waiting another 8301waiting another 7301waiting another 7301waiting another 6301waiting another 6301waiting another 5301waiting another 5301waiting another 4301waiting another 4301waiting another 3301waiting another 3301waiting another 2301waiting another 2301waiting another 1301waiting another 1301waiting another 301waiting another 301waiting another 300producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. 
+200 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 3846.20
+200 dropped, 3846 added
+sorting database...
+413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 3846 | 9615 | 
+3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 1 | 3 | 
+entry at 0, wait = 4294947810
+closest sound = 720
+######## REJECT ########
+producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. 
+413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 3846 | 9615 | 
+3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 1 | 3 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 40.36
+3846 dropped, 40 added
+sorting database...
+40 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+2260 - 1600 < 9615 - 2260, difference/wait = 4294935224
+closest sound = 1600
+######## REJECT ########
+producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. producing another tone.. 
+40 | 413 | 720 | 760 | 1040 | 1282 | 1373 | 1600 | 2260 | 9615 | 
+1 | 3 | 2 | 2 | 5 | 2 | 2 | 2 | 2 | 3 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 40.36
+######## APPROVE #######

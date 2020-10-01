@@ -1,0 +1,312 @@
+waiting factor = 150
+filling database...
+2300 | 1560 | 760 | 1260 | 1140 |
+new frequency = 2024.32
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 2300 | 1560 | 760 | 1260 | 1140 | 2024 | 0 | 0 | 0 | 0 |
+2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |
+
+new frequency = 14.05
+incomingData < 300
+
+new frequency = 1538.48
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+2300 | 1560 | 760 | 1260 | 1140 | 2024 | 0 | 0 | 0 | 0 |
+2 | 3 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |
+
+new frequency = 915.76
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 2300 | 1560 | 760 | 1260 | 1140 | 2024 | 915 | 0 | 0 | 0 |
+2 | 3 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 0 |
+
+new frequency = 195.24
+incomingData < 300
+
+new frequency = 171.71
+incomingData < 300
+
+new frequency = 818.34
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 2300 | 1560 | 760 | 1260 | 1140 | 2024 | 915 | 818 | 0 | 0 |
+2 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 0 |
+
+new frequency = 2024.32
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+2300 | 1560 | 760 | 1260 | 1140 | 2024 | 915 | 818 | 0 | 0 |
+2 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 0 | 0 |
+
+new frequency = 10.99
+incomingData < 300
+
+new frequency = 29.56
+incomingData < 300
+
+new frequency = 1923.10
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 2300 | 1560 | 760 | 1260 | 1140 | 2024 | 915 | 818 | 1923 | 0 |
+2 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 |
+
+new frequency = 282.81
+incomingData < 300
+
+new frequency = 1748.27
+######### db fillup ########
+incoming data added to database.
+doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. doing nothing for a while.. 2300 | 1560 | 760 | 1260 | 1140 | 2024 | 915 | 818 | 1923 | 1748 |
+2 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
+
+new frequency = 104.52
+incomingData < 300
+
+new frequency = 23.16
+incomingData < 300
+
+new frequency = 28.55
+incomingData < 300
+
+new frequency = 686.82
+######### db fillup ########
+----------------end of database reached.----------------
+915 dropped, 686 added
+sorting database...
+686 | 760 | 818 | 1140 | 1260 | 1560 | 1748 | 1923 | 2024 | 2300 |
+1 | 2 | 1 | 2 | 2 | 3 | 1 | 1 | 2 | 2 |
+1748 - 1560 > 1923 - 1748, difference/wait = 26250
+closest sound = 1923
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 25928, waiting another 25928, waiting another 24928, waiting another 24928, waiting another 23928, waiting another 23928, waiting another 22928, waiting another 22928, waiting another 21928, waiting another 21928, waiting another 20928, waiting another 20928, waiting another 20927, waiting another 19928, waiting another 19928, waiting another 18928, waiting another 18928, waiting another 18927, waiting another 17928, waiting another 17928, waiting another 16928, waiting another 16928, waiting another 15928, waiting another 15928, waiting another 14928, waiting another 14928, waiting another 13928, waiting another 13928, waiting another 13927, waiting another 12928, waiting another 12928, waiting another 11928, waiting another 11928, waiting another 11927, waiting another 10928, waiting another 10928, waiting another 9928, waiting another 9928, waiting another 9927, waiting another 8928, waiting another 8928, waiting another 8927, waiting another 7928, waiting another 7928, waiting another 7927, waiting another 6928, waiting another 6928, waiting another 6927, waiting another 5928, waiting another 5928, waiting another 5927, waiting another 4928, waiting another 4928, waiting another 4927, waiting another 3928, waiting another 3928, waiting another 3927, waiting another 2928, waiting another 2928, waiting another 2927, waiting another 1928, waiting another 1928, waiting another 1927, waiting another 928, waiting another 928, waiting another 928
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+686 | 760 | 818 | 1140 | 1260 | 1560 | 1748 | 1923 | 2024 | 2300 |
+1 | 2 | 1 | 2 | 2 | 3 | 1 | 1 | 2 | 2 |
+
+new frequency = 2024.32
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+686 | 760 | 818 | 1140 | 1260 | 1560 | 1748 | 1923 | 2024 | 2300 |
+1 | 2 | 1 | 2 | 2 | 3 | 1 | 1 | 3 | 2 |
+
+new frequency = 7.85
+incomingData < 300
+
+new frequency = 1098.91
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+686 | 760 | 818 | 1140 | 1260 | 1560 | 1748 | 1923 | 2024 | 2300 |
+1 | 2 | 1 | 3 | 2 | 3 | 1 | 1 | 3 | 2 |
+
+new frequency = 18.88
+incomingData < 300
+
+new frequency = 3496.55
+incomingData < 300
+
+new frequency = 3846.20
+incomingData < 300
+
+new frequency = 1831.52
+686 dropped, 1831 added
+sorting database...
+760 | 818 | 1140 | 1260 | 1560 | 1748 | 1831 | 1923 | 2024 | 2300 |
+2 | 1 | 3 | 2 | 3 | 1 | 1 | 1 | 3 | 2 |
+entry at 0, wait = 8700
+closest sound = 818
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 7978, waiting another 7978, waiting another 7977, waiting another 6978, waiting another 6978, waiting another 6977, waiting another 5978, waiting another 5978, waiting another 5977, waiting another 4978, waiting another 4978, waiting another 4977, waiting another 3978, waiting another 3978, waiting another 3977, waiting another 2978, waiting another 2978, waiting another 2977, waiting another 1978, waiting another 1978, waiting another 1977, waiting another 978, waiting another 978, waiting another 978
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1560 | 1748 | 1831 | 1923 | 2024 | 2300 |
+2 | 1 | 3 | 2 | 3 | 1 | 1 | 1 | 3 | 2 |
+
+new frequency = 46.06
+incomingData < 300
+
+new frequency = 191.35
+incomingData < 300
+
+new frequency = 2024.32
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1560 | 1748 | 1831 | 1923 | 2024 | 2300 |
+2 | 1 | 3 | 2 | 3 | 1 | 1 | 1 | 4 | 2 |
+
+new frequency = 68.44
+incomingData < 300
+
+new frequency = 712.26
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1560 | 1748 | 1831 | 1923 | 2024 | 2300 |
+3 | 1 | 3 | 2 | 3 | 1 | 1 | 1 | 4 | 2 |
+
+new frequency = 66.31
+incomingData < 300
+
+new frequency = 836.13
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone.. producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1560 | 1748 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 3 | 1 | 1 | 1 | 4 | 2 |
+
+new frequency = 51.91
+incomingData < 300
+
+new frequency = 4273.56
+incomingData < 300
+
+new frequency = 674.77
+1748 dropped, 674 added
+sorting database...
+674 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 3 | 1 | 1 | 4 | 2 |
+1560 - 1260 > 1831 - 1560, difference/wait = 4294942410
+closest sound = 1831
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+674 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 3 | 1 | 1 | 4 | 2 |
+
+new frequency = 404.86
+674 dropped, 404 added
+sorting database...
+404 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 3 | 1 | 1 | 4 | 2 |
+entry at 0, wait = 4294955160
+closest sound = 760
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+404 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 3 | 1 | 1 | 4 | 2 |
+
+new frequency = 1672.26
+404 dropped, 1672 added
+sorting database...
+760 | 818 | 1140 | 1260 | 1560 | 1672 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 3 | 1 | 1 | 1 | 4 | 2 |
+entry at 0, wait = 8700
+closest sound = 818
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 8301, waiting another 8301, waiting another 8300, waiting another 7301, waiting another 7301, waiting another 7300, waiting another 6301, waiting another 6301, waiting another 6300, waiting another 5301, waiting another 5301, waiting another 5300, waiting another 4301, waiting another 4301, waiting another 4300, waiting another 3301, waiting another 3301, waiting another 3300, waiting another 2301, waiting another 2301, waiting another 2300, waiting another 1301, waiting another 1301, waiting another 1300, waiting another 301, waiting another 301, waiting another 301
+producing another tone.. producing another tone.. producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1560 | 1672 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 3 | 1 | 1 | 1 | 4 | 2 |
+
+new frequency = 1479.31
+1672 dropped, 1479 added
+sorting database...
+760 | 818 | 1140 | 1260 | 1479 | 1560 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 1 | 3 | 1 | 1 | 4 | 2 |
+1560 - 1479 < 1831 - 1560, difference/wait = 12150
+closest sound = 1479
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 11430, waiting another 11430, waiting another 11429, waiting another 10430, waiting another 10430, waiting another 10429, waiting another 9430, waiting another 9430, waiting another 9429, waiting another 8430, waiting another 8430, waiting another 8429, waiting another 7430, waiting another 7430, waiting another 7429, waiting another 6430, waiting another 6430, waiting another 6429, waiting another 5430, waiting another 5430, waiting another 5429, waiting another 4430, waiting another 4430, waiting another 4429, waiting another 3430, waiting another 3430, waiting another 3429, waiting another 2430, waiting another 2430, waiting another 2429, waiting another 1430, waiting another 1430, waiting another 1429, waiting another 430, waiting another 430, waiting another 429
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1479 | 1560 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 1 | 3 | 1 | 1 | 4 | 2 |
+
+new frequency = 1424.52
+1479 dropped, 1424 added
+sorting database...
+760 | 818 | 1140 | 1260 | 1424 | 1560 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 1 | 3 | 1 | 1 | 4 | 2 |
+1424 - 1260 > 1560 - 1424, difference/wait = 20400
+closest sound = 1560
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 19840, waiting another 19840, waiting another 18840, waiting another 18840, waiting another 17840, waiting another 17840, waiting another 17839, waiting another 16840, waiting another 16840, waiting another 15840, waiting another 15840, waiting another 15839, waiting another 14840, waiting another 14840, waiting another 13840, waiting another 13840, waiting another 13839, waiting another 12840, waiting another 12840, waiting another 12839, waiting another 11840, waiting another 11840, waiting another 10840, waiting another 10840, waiting another 9840, waiting another 9840, waiting another 9839, waiting another 8840, waiting another 8840, waiting another 8839, waiting another 7840, waiting another 7840, waiting another 7839, waiting another 6840, waiting another 6840, waiting another 6839, waiting another 5840, waiting another 5840, waiting another 5839, waiting another 4840, waiting another 4840, waiting another 4839, waiting another 3840, waiting another 3840, waiting another 3839, waiting another 2840, waiting another 2840, waiting another 2839, waiting another 1840, waiting another 1840, waiting another 1839, waiting another 840, waiting another 840, waiting another 840
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1424 | 1560 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 1 | 3 | 1 | 1 | 4 | 2 |
+
+new frequency = 58.72
+incomingData < 300
+
+new frequency = 73.40
+incomingData < 300
+
+new frequency = 6410.33
+incomingData < 300
+
+new frequency = 30.12
+incomingData < 300
+
+new frequency = 1538.48
+######## APPROVE #######
+light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait.. light LED / wait..
+producing the same tone.. producing the same tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+760 | 818 | 1140 | 1260 | 1424 | 1560 | 1831 | 1923 | 2024 | 2300 |
+3 | 2 | 3 | 2 | 1 | 4 | 1 | 1 | 4 | 2 |
+
+new frequency = 114.47
+incomingData < 300
+
+new frequency = 85.47
+incomingData < 300
+
+new frequency = 55.50
+incomingData < 300
+
+new frequency = 218.53
+incomingData < 300
+
+new frequency = 413.57
+1424 dropped, 413 added
+sorting database...
+413 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 4 | 1 | 1 | 4 | 2 |
+1260 - 1140 < 1560 - 1260, difference/wait = 18000
+closest sound = 1140
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 17285, waiting another 17285, waiting another 17284, waiting another 16285, waiting another 16285, waiting another 16284, waiting another 15285, waiting another 15285, waiting another 14285, waiting another 14285, waiting another 13285, waiting another 13285, waiting another 12285, waiting another 12285, waiting another 11285, waiting another 11285, waiting another 10285, waiting another 10285, waiting another 9285, waiting another 9285, waiting another 9284, waiting another 8285, waiting another 8285, waiting another 8284, waiting another 7285, waiting another 7285, waiting another 7284, waiting another 6285, waiting another 6285, waiting another 6284, waiting another 5285, waiting another 5285, waiting another 5284, waiting another 4285, waiting another 4285, waiting another 4284, waiting another 3285, waiting another 3285, waiting another 3284, waiting another 2285, waiting another 2285, waiting another 2284, waiting another 1285, waiting another 1285, waiting another 1284, waiting another 285, waiting another 285, waiting another 285
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again..
+413 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 4 | 1 | 1 | 4 | 2 |
+
+new frequency = 312.70
+413 dropped, 312 added
+sorting database...
+312 | 760 | 818 | 1140 | 1260 | 1560 | 1831 | 1923 | 2024 | 2300 |
+1 | 3 | 2 | 3 | 2 | 4 | 1 | 1 | 4 | 2 |
+entry at 0, wait = 1664
+closest sound = 760
+######## REJECT ########
+vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating.. vibrating..
+, waiting another 896, waiting another 896, waiting another 895
+producing another tone.. producing another tone..
+waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. waiting again.. wait
