@@ -1,0 +1,64 @@
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+react = false, millis() = 3000
+new median: 22.13
+checkingIncomingData.. incomingData = 22
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 0
+22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 7298
+new median: 22.13
+checkingIncomingData.. incomingData = 22
+data incoming - checking entry existence in db...
+...22 exists at slot 0
+22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 11469
+new median: 22.13
+checkingIncomingData.. incomingData = 22
+data incoming - checking entry existence in db...
+...22 exists at slot 0
+22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 15640
+new median: 836.13
+checkingIncomingData.. incomingData = 836
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 1
+22 | 836 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 19942
+new median: 836.13
+checkingIncomingData.. incomingData = 836
+data incoming - checking entry existence in db...
+...836 exists at slot 1
+22 | 836 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 24118
+new median: 557.42
+checkingIncomingData.. incomingData = 557
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 2
+22 | 836 | 557 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 28422
+new median: 557.42
+checkingIncomingData.. incomingData = 557
+data incoming - checking entry existence in db...
+...557 exists at slot 2
+22 | 836 | 557 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 32600

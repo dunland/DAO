@@ -1,0 +1,7 @@
+### Module positions - created on 07/27/18 12:52:36 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                      PosX       PosY       Rot  Side
+BT        Batteriehalterung  Batteriehalterung_2xAA   150.0000  -100.0000   90.0000  bottom
+## End

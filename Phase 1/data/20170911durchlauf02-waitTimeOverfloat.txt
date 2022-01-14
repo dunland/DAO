@@ -1,0 +1,159 @@
+filling database... 
+120 | 160 | 
+new median = 641.03
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 641 | 0 | 0 | 
+2 | 2 | 1 | 0 | 0 | 
+
+new median = 1831.52
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 641 | 1831 | 0 | 
+2 | 2 | 1 | 1 | 0 | 
+
+new median = 674.77
+######## APPROVE #######
+120 | 160 | 641 | 1831 | 0 | 
+2 | 2 | 2 | 1 | 0 | 
+
+new median = 256.41
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 641 | 1831 | 256 | 
+2 | 2 | 2 | 1 | 1 | 
+
+new median = 725.70
+######### db fillup ########
+----------------end of database reached.----------------
+1831 dropped, 725 added
+sorting database...
+120 | 160 | 256 | 641 | 725 | 
+2 | 2 | 1 | 2 | 1 | 
+641 - 256 > 725 - 641, difference/wait = 8400
+closest sound = 725
+######## REJECT ########
+120 | 160 | 256 | 641 | 725 | 
+2 | 2 | 1 | 2 | 1 | 
+
+new median = 40.96
+256 dropped, 40 added
+sorting database...
+40 | 120 | 160 | 641 | 725 | 
+1 | 2 | 2 | 2 | 1 | 
+160 - 120 < 641 - 160, difference/wait = 4000
+closest sound = 120
+######## REJECT ########
+40 | 120 | 160 | 641 | 725 | 
+1 | 2 | 2 | 2 | 1 | 
+
+new median = 51.91
+######## APPROVE #######
+40 | 120 | 160 | 641 | 725 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 1165.52
+725 dropped, 1165 added
+sorting database...
+40 | 120 | 160 | 641 | 1165 | 
+2 | 2 | 2 | 2 | 1 | 
+entry at end, wait = 4294954160
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 1165 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 1748.27
+1165 dropped, 1748 added
+sorting database...
+40 | 120 | 160 | 641 | 1748 | 
+2 | 2 | 2 | 2 | 1 | 
+entry at end, wait = 4294946924
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 1748 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 1672.26
+1748 dropped, 1672 added
+sorting database...
+40 | 120 | 160 | 641 | 1672 | 
+2 | 2 | 2 | 2 | 1 | 
+entry at end, wait = 4294939324
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 1672 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 1039.51
+1672 dropped, 1039 added
+sorting database...
+40 | 120 | 160 | 641 | 1039 | 
+2 | 2 | 2 | 2 | 1 | 
+entry at end, wait = 4294941560
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 1039 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 2024.32
+1039 dropped, 2024 added
+sorting database...
+40 | 120 | 160 | 641 | 2024 | 
+2 | 2 | 2 | 2 | 1 | 
+entry at end, wait = 7228
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 2024 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 337.39
+2024 dropped, 337 added
+sorting database...
+40 | 120 | 160 | 337 | 641 | 
+2 | 2 | 2 | 1 | 2 | 
+entry at end, wait = 30400
+closest sound = 337
+######## REJECT ########
+40 | 120 | 160 | 337 | 641 | 
+2 | 2 | 2 | 1 | 2 | 
+
+new median = 1538.48
+337 dropped, 1538 added
+sorting database...
+40 | 120 | 160 | 641 | 1538 | 
+2 | 2 | 2 | 2 | 1 | 
+641 - 160 < 1538 - 641, difference/wait = 4294949860
+closest sound = 160
+######## REJECT ########
+40 | 120 | 160 | 641 | 1538 | 
+2 | 2 | 2 | 2 | 1 | 
+
+new median = 93.35
+######## APPROVE #######
+40 | 120 | 160 | 641 | 1538 | 
+2 | 3 | 2 | 2 | 1 | 
+
+new median = 1748.27
+1538 dropped, 1748 added
+sorting database...
+40 | 120 | 160 | 641 | 1748 | 
+2 | 3 | 2 | 2 | 1 | 
+entry at end, wait = 4294946924
+closest sound = 641
+######## REJECT ########
+40 | 120 | 160 | 641 | 1748 | 
+2 | 3 | 2 | 2 | 1 | 
+
+new median = 118.34
+######## APPROVE #######
+40 | 120 | 160 | 641 | 1748 | 
+2 | 4 | 2 | 2 | 1 | 
+
+new median = 78.02
+######## APPROVE #######
+40 | 120 | 160 | 641 | 1748 | 
+3 | 4 | 2 | 2 | 1 | 
+
+new median = 52.12
+######## APPROVE #######

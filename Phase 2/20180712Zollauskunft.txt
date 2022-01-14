@@ -1,0 +1,15 @@
+zollsatz 0%
+
+umsatzsteuer 19%
+
+rechnungsentwert + versand = zollwert
+
+kurierdienst dhl ~13€
+
+rechnung sollte enthalten: versandkosten! 3-5€
+
+eori nur für gewerbliches
+
+rechnung außen ans paket!
+wenn möglich zolltarifnummer mit drauf!
+85340090

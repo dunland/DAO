@@ -1,0 +1,2 @@
+Bestellung #1 bei mouser, benutzt für PCB-Manufaktur #1 und #2
+(DAO_Hearsay_KiCad, DAO_Hearsay_KiCad02c)

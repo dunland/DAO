@@ -1,0 +1,35 @@
+### Module positions - created on 07/27/18 12:52:36 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                        PosX       PosY       Rot  Side
+C1        4.7uF          C_0805_HandSoldering                       170.6680   -94.4880    0.0000  top
+C2        10uF           C_0805_HandSoldering                       170.6880   -86.3600    0.0000  top
+C3        1000uF         CP_Elec_10x10.5                            157.2900   -83.0580  180.0000  top
+C4        4.7uF          CP_Elec_5x5.3                              162.0520  -126.7460  180.0000  top
+C5        22pF           C_0805_HandSoldering                       124.7340   -81.7880  180.0000  top
+C6        22pF           C_0805_HandSoldering                       124.7340   -89.4080  180.0000  top
+C7        0.1uF          C_1206_HandSoldering                       152.1460  -120.6500   90.0000  top
+C8        1uF            CP_Elec_4x5.3                              164.0840  -107.1880    0.0000  top
+C9        22uF           CP_Elec_6.3x5.8                            144.0180  -116.3320    0.0000  top
+D1        LED            LED_0805_HandSoldering                     173.9900  -113.5380    0.0000  top
+D3        D              D_SOD-323_HandSoldering                    157.2260  -116.5660  270.0000  top
+ISP1      AVR-ISP-6      Pin_Header_Straight_2x03_Pitch2.54mm_SMD   149.6060   -71.3740   90.0000  top
+L1        L              L_Abracon_ASPI-3012S                       170.6880   -98.8060  180.0000  top
+R1        68K            R_0805_HandSoldering                       166.1160   -87.1220  270.0000  top
+R2        22K            R_0805_HandSoldering                       166.1160   -92.4560  270.0000  top
+R3        10K            R_0805_HandSoldering                       134.3660   -76.4540    0.0000  top
+R4        22             R_0805_HandSoldering                       134.1120  -113.5380    0.0000  top
+R5        220            R_0805_HandSoldering                       173.9900  -109.9820  180.0000  top
+R6        1175           R_0805_HandSoldering                       131.0640  -103.8860    0.0000  top
+R7        1175           R_0805_HandSoldering                       134.1120  -108.4580    0.0000  top
+R8        1600           R_0805_HandSoldering                       128.2700  -100.3300    0.0000  top
+R9        30K            R_0805_HandSoldering                       155.4480   -94.9960    0.0000  top
+R10       2.2K           R_0805_HandSoldering                       163.5760  -113.5380  180.0000  top
+RGB       LED_RAGB       LED_RCGB_AAA3528                           120.9040  -107.1880   90.0000  top
+SW1       SW_DPDT_x2     switch_SMDslide_JS202011SCQN               179.0700   -98.0440  270.0000  top
+U1        MCP1640TIchy   MCP1640TIchy                               170.6880   -90.4240   90.0000  top
+U2        ATMEGA328P-AU  TQFP-32_7x7mm_Pitch0.8mm                   138.6840   -84.9060    0.0000  top
+U3        LM386          SOIC-8_3.9x4.9mm_Pitch1.27mm               150.3680  -129.5400    0.0000  top
+Y1        16MHz          Crystal_SMD_ABRACON_ABLS7M2                129.7940   -85.5980  270.0000  top
+## End

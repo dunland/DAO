@@ -1,0 +1,194 @@
+waiting factor = 150
+filling database... 
+120 | 160 | 580 | 560 | 240 | 
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = inf
+incomingData == 0
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 22.07
+######## APPROVE #######
+120 | 160 | 580 | 560 | 240 | 0 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 59.72
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 580 | 560 | 240 | 59 | 0 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1602.58
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 580 | 560 | 240 | 59 | 1602 | 0 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1479.31
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 580 | 560 | 240 | 59 | 1602 | 1479 | 0 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1326.28
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 580 | 560 | 240 | 59 | 1602 | 1479 | 1326 | 0 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 0 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1201.94
+######### db fillup ########
+incoming data added to database.
+120 | 160 | 580 | 560 | 240 | 59 | 1602 | 1479 | 1326 | 1201 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 1068.39
+######### db fillup ########
+----------------end of database reached.----------------
+1602 dropped, 1068 added
+sorting database...
+59 | 120 | 160 | 240 | 560 | 580 | 1068 | 1201 | 1326 | 1479 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+1068 - 580 > 1201 - 1068, difference/wait = 19950
+closest sound = 1201
+######## REJECT ########
+59 | 120 | 160 | 240 | 560 | 580 | 1068 | 1201 | 1326 | 1479 | 
+2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 93.35
+######## APPROVE #######
+59 | 120 | 160 | 240 | 560 | 580 | 1068 | 1201 | 1326 | 1479 | 
+3 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 129.50
+######## APPROVE #######
+59 | 120 | 160 | 240 | 560 | 580 | 1068 | 1201 | 1326 | 1479 | 
+3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 174.04
+######## APPROVE #######
+59 | 120 | 160 | 240 | 560 | 580 | 1068 | 1201 | 1326 | 1479 | 
+3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 801.29
+1068 dropped, 801 added
+sorting database...
+59 | 120 | 160 | 240 | 560 | 580 | 801 | 1201 | 1326 | 1479 | 
+3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+801 - 580 < 1201 - 801, difference/wait = 4294934910
+closest sound = 580
+######## REJECT ########
+59 | 120 | 160 | 240 | 560 | 580 | 801 | 1201 | 1326 | 1479 | 
+3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 19231.00
+801 dropped, 19231 added
+sorting database...
+59 | 120 | 160 | 240 | 560 | 580 | 1201 | 1326 | 1479 | 19231 | 
+3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+1201 - 580 > 1326 - 1201, difference/wait = 18750
+closest sound = 1326
+######## REJECT ########
+59 | 120 | 160 | 240 | 560 | 580 | 1201 | 1326 | 1479 | 19231 | 
+3 | 3 | 3 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 526.88
+######## APPROVE #######
+59 | 120 | 160 | 240 | 560 | 580 | 1201 | 1326 | 1479 | 19231 | 
+3 | 3 | 3 | 2 | 3 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 769.24
+1201 dropped, 769 added
+sorting database...
+59 | 120 | 160 | 240 | 560 | 580 | 769 | 1326 | 1479 | 19231 | 
+3 | 3 | 3 | 2 | 3 | 2 | 1 | 1 | 1 | 1 | 
+769 - 580 < 1326 - 769, difference/wait = 28350
+closest sound = 580
+######## REJECT ########
+59 | 120 | 160 | 240 | 560 | 580 | 769 | 1326 | 1479 | 19231 | 
+3 | 3 | 3 | 2 | 3 | 2 | 1 | 1 | 1 | 1 | 
+resetting median, checkMaxAmp, ampTimer
+
+new frequency = 12820.67
+769 dropped, 12820 added
+sorting database...
+59 | 120 | 160 | 240 | 560 | 580 | 1326 | 1479 | 12820 | 19231 | 
+3 | 3 | 3 | 2 | 3 | 2 | 1 | 1 | 1 | 1 | 
+1326 - 580 > 1479 - 1326, difference/wait = 22950
+closest sound = 1479
+######## REJECT ########

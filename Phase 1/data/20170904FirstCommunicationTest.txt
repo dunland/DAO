@@ -1,0 +1,131 @@
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 0.00
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 52.26
+checkingIncomingData.. incomingData = 52
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 0
+52 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1831.52
+checkingIncomingData.. incomingData = 1831
+data incoming - checking entry existence in db...
+...1831 exists at slot 1
+52 | 1831 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+new median: 1602.58
+checkingIncomingData.. incomingData = 1602
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 2
+52 | 1831 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+playing tone. react = false
+new median: 1602.58
+checkingIncomingData.. incomingData = 1602
+data incoming - checking entry existence in db...
+...1602 exists at slot 2
+52 | 1831 | 1602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true

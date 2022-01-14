@@ -1,0 +1,97 @@
+0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+react = false, millis() = 3000
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: inf
+checkingIncomingData.. incomingData = 0
+incomingData = 0
+new median: 130.38
+checkingIncomingData.. incomingData = 130
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 0
+130 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 6506
+new median: 549.46
+checkingIncomingData.. incomingData = 549
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 1
+130 | 549 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 9810
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 13116
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...961 exists at slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 16329
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...961 exists at slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 19542
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...961 exists at slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 22812
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...961 exists at slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 26025
+new median: 961.55
+checkingIncomingData.. incomingData = 961
+data incoming - checking entry existence in db...
+...961 exists at slot 2
+130 | 549 | 961 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 29238
+new median: 1165.52
+checkingIncomingData.. incomingData = 1165
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 3
+130 | 549 | 961 | 1165 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
+react = false, millis() = 32549
+new median: 312.70
+checkingIncomingData.. incomingData = 312
+data incoming - checking entry existence in db...
+...incomingData not found in db[]
+
+wrote data to slot 4
+130 | 549 | 961 | 1165 | 312 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32768 | 
+
+react = true
